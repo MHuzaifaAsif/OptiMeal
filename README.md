@@ -1,6 +1,6 @@
 # 🍽️ OptiMeal
 
-**Your Smart, Dynamic, & Beautiful Sous Chef**
+**Your Smart, Dynamic, & Beautiful Chef**
 
 OptiMeal is a dynamic, Streamlit-based web application that helps you decide what to cook based on the ingredients you already have. By searching through localized recipe datasets (including Pakistani and Indian cuisines), it provides personalized, ranked recipe recommendations to reduce food waste and make cooking easier.
 
