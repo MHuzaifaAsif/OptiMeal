@@ -4,7 +4,7 @@ import os
 
 @st.cache_data(show_spinner=False)
 def load_and_combine_data():
-    base_dir = r"c:\Users\Huzaifa's\Desktop\Projects\OptiMeal"
+    base_dir = os.path.dirname(__file__)
     
     # Load Nigerian/Pakistani/Indian datasets safely
     try:
